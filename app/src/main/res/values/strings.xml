@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WallPaper</string>
+    <string name="dkayhub">By DkayHub</string>
+    <string name="LogoName">Dkay Wallpaper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homefragment">HomeFrament</string>
+    <string name="downloadfragment">Download Fragment</string>
+    <string name="dkay_wallpaper">Dkay Wallpaper</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="best_of_the_month">Best of the Month</string>
+</resources>
